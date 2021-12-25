@@ -1,0 +1,1 @@
+    openssl aes-256-cbc -K $encrypted_5466af368279_key -iv $encrypted_5466af368279_iv -in eastern-surface-336112-4fbfbd079eaf.json.enc -out eastern-surface-336112-4fbfbd079eaf.json -d
